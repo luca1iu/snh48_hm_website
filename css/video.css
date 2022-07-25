@@ -1,0 +1,25 @@
+.main-container .container  li{
+    display: inline-block;
+    line-height: 40px;
+    width: 270px;
+    height: 160px;
+    float: right;
+}
+
+.main-container .container .video img {
+    width: 250px;
+    height: 150px;
+}
+
+.main-container .container .t {
+    color: #000000;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.25;
+}
+
+.main-container .container .title{
+    margin-left: 10px;
+}
