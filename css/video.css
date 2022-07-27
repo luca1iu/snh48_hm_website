@@ -1,7 +1,7 @@
 .main-container .container  li{
     display: inline-block;
     line-height: 40px;
-    width: 270px;
+    width: 300px;
     height: 160px;
     float: right;
 }
@@ -17,9 +17,13 @@
     font-size: 100%;
     font-weight: 400;
     font-style: normal;
-    line-height: 1.25;
+    line-height: 1.5;
 }
 
 .main-container .container .title{
     margin-left: 10px;
+}
+
+.main-container .container .video{
+    margin-bottom: 80px;
 }
